@@ -62,7 +62,9 @@
 }
 
 .bg-motherboard-dev {
-    background-image: url("../assets/img/publicbackgrounds/bg-motherboard-dev.jpg");
+   
+    background-image: url("../assets/img/publicbackgrounds/vitsippa.jpg");
+    background-size: 100%;
 }
 
 .bg-white-94 {
@@ -122,7 +124,7 @@ body {
     }
 
     .bg-motherboard-dev {
-        background-image: url("../assets/img/publicbackgrounds/bg-motherboard.jpg");
+        background-image: url("../assets/img/publicbackgrounds/vitsippa.jpg");
     }
 
     .md-and-smaller-d-none {
