@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Components\Public\Shared\" />
     <Folder Include="wwwroot\assets\img\publicbackgrounds\" />
   </ItemGroup>
 
